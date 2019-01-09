@@ -80,6 +80,17 @@ Participei do projeto *Analise do perfil vertical dos aerossóis sobre a região
 onde desenvolvi formas para analisar os dados brutos do satétile [CALIPSO](https://www.nasa.gov/mission_pages/calipso/spacecraft/index.html)
 para determinar o perfil vertical de aerossóis.
 
+## Palestras
+
+#### **[Introdução ao Paradigma Funcional com Scala](https://bit.ly/2SN3VQs)** - FLISOL PELOTAS 2015
+
+Nesta palestra introduzo os principais conceitos da programação funcional, usando a linguagem de programação Scala. 
+Nessa palestra também mostro as facilidades do uso do framework Akka.
+
+#### **[Programação Funcional com Haskell](https://bit.ly/2SNm3K4)** - TCHÊLINUX PELOTAS 2015
+
+Nessa palestra mostro os blocos básicos para a construção de programas puramente funcionais com exemplos escritos em Haskell.
+
 ## Formação
 
 #### **Engenharia de Computação** -- Universidade Federal de Pelotas -- Março/2014 - Janeiro/2019

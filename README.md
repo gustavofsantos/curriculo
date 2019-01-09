@@ -92,7 +92,7 @@ para determinar o perfil vertical de aerossóis.
 
 **Resumo:** Um importante problema atual está relacionado com a identificação digital de pessoas. Com foco em desenvolver uma forma descentralizada de identificação digital, este trabalho se propõe a resolver um problema das redes descentralizadas onde um usuário é identificado exclusivamente por uma chave pública. Para tal foi desenvolvido um conjunto de protocolos baseado em blockchain programável, como o Ethereum. Foi obtido como resultados um protótipo que implementa uma versão simplificada do protocolo proposto, um conjunto de testes unitários e uma breve análise de custos econômicos operacionais destes protocolos no Ethereum.
 
-Um resumo do meu TCC em formato de artigo pode ser visto neste [link]().
+Um resumo do meu TCC em formato de artigo pode ser visto neste [link](https://github.com/gustavofsantos/curriculo/blob/master/files/SBRC_2019.pdf).
 
 ##### Trabalhos Interessantes
 
@@ -109,7 +109,7 @@ Aqui listo alguns trabalhos interessantes que desenvolvi ao longo da graduação
 
 ##### Histórico
 
-Caso seja do interesse, o meu histórico pode ser visto neste [link]().
+Caso seja do interesse, o meu histórico pode ser visto neste [link](https://github.com/gustavofsantos/curriculo/blob/master/files/historico.pdf).
 
 #### **Meteorologia** -- Universidade Federal de Pelotas -- 2011 - 2014 (incompleto)
 

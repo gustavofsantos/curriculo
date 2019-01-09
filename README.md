@@ -23,7 +23,7 @@
 
 ## Resumo
 
-Sou um Engenheiro de Computação por formação e um Desenvolvedor JavaScript por amor.
+Sou um Engenheiro de Computação por formação e um Desenvolvedor JavaScript por amor onde geralmente gosto de fazer programas usando o que existe no *cutting edge* da tecnologia.
 
 ## Cinto de ferramentas
 
@@ -40,7 +40,7 @@ Embora minha maior proeficiência seja no mundo JavaScript, gosto de explorar di
   - IoT
   - Programação Funcional
   
-Também tenho uma lista não tão extensa como eu gostaria com tecnologias que eu gostaria muito de interagir:
+Também tenho uma lista não tão extensa quanto eu gostaria, com tecnologias que eu quero muito trabalhar em algum momento:
 
   - Elixir (Phoenix, Ecto, etc.)
   - Android
@@ -80,6 +80,14 @@ Participei do projeto *Analise do perfil vertical dos aerossóis sobre a região
 onde desenvolvi formas para analisar os dados brutos do satétile [CALIPSO](https://www.nasa.gov/mission_pages/calipso/spacecraft/index.html)
 para determinar o perfil vertical de aerossóis.
 
+#### **UFPel** -- Bolsista de Ensino -- Janeiro/2013 - Julho/2013
+
+Fui monitor de Cálculo II/III/3 vinculado ao Departamento de Matemática e Estatística.
+
+#### **UFPel** -- Bolsista de Ensino -- Março/2012 - Dezembro/2012
+
+Fui monitor de Álgebra Linear e Geometria Analítica vinculado ao Departamento de Matemática e Estatística.
+
 ## Palestras
 
 #### **[Introdução ao Paradigma Funcional com Scala](https://github.com/gustavofsantos/palestra-scala/blob/master/scala.pdf)** - FLISOL PELOTAS 2015
@@ -94,8 +102,6 @@ Nessa palestra mostro os blocos básicos para a construção de programas purame
 ## Formação
 
 #### **Engenharia de Computação** -- Universidade Federal de Pelotas -- Março/2014 - Janeiro/2019
-
-**Título:** Bacharel em Engenharia de Computação
 
 ##### Trabalho de Conclusão de Curso
 
@@ -118,7 +124,7 @@ Aqui listo alguns trabalhos interessantes que desenvolvi ao longo da graduação
   - **Máquina Virtual** - Programação de Sistemas
     > Tecnologias: Java
 
-##### Histórico
+##### Histórico acadêmico
 
 Caso seja do interesse, o meu histórico pode ser visto neste [link](https://github.com/gustavofsantos/curriculo/blob/master/files/historico.pdf).
 

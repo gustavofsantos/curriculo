@@ -82,7 +82,7 @@ para determinar o perfil vertical de aerossóis.
 
 ## Palestras
 
-#### **[Introdução ao Paradigma Funcional com Scala](https://bit.ly/2SN3VQs)** - FLISOL PELOTAS 2015
+#### **[Introdução ao Paradigma Funcional com Scala](https://github.com/gustavofsantos/palestra-scala/blob/master/scala.pdf)** - FLISOL PELOTAS 2015
 
 Nesta palestra introduzo os principais conceitos da programação funcional, usando a linguagem de programação Scala. 
 Nessa palestra também mostro as facilidades do uso do framework Akka.

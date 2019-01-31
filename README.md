@@ -9,11 +9,11 @@
   Gustavo Santos
 </h1>
 
-**Email:** gfdsantos@inf.ufpel.edu.br ou gfdsantos@protonmail.com
+**Email:** gfdsantos@inf.ufpel.edu.br ou gfdsantos@protonmail.com ou gustavofsantos@outlook.com
 
 **Telefone:** (53) 98133-8284
 
-**Local:** Pelotas/RS - Curitiba/PR
+**Local:** Curitiba/PR
 
 **Twitter:** [@gufs0z](https://twitter.com/gufs0z)
 
@@ -23,34 +23,36 @@
 
 ## Resumo
 
-Sou um Engenheiro de Computação por formação e um Desenvolvedor JavaScript por amor onde geralmente gosto de fazer programas usando o que existe no *cutting edge* da tecnologia.
+Sou um desenvolvedor poliglota, engenheiro, tocador de violão, jogador de Battlefield e que nas horas vagas arrisco um futebol. Adoro novos desafios, adoro aprender novas tecnologias, adoro exercitar minha capacidade ser flexível
 
 ## Cinto de ferramentas
 
-Embora minha maior proeficiência seja no mundo JavaScript, gosto de explorar diversas tecnologias.
+Embora minha maior proeficiência seja no mundo JavaScript, gosto de explorar diversas tecnologias:
 
   - JavaScript
+  - Programação Funcional
   - Node.js
   - MongoDB
   - React.js
+  - React Native
   - Python
   - Ethereum (com Solidity)
   - GraphQL
   - IPFS
   - IoT
-  - Programação Funcional
+  
   
 Também tenho uma lista não tão extensa quanto eu gostaria, com tecnologias que eu quero muito trabalhar em algum momento:
 
   - Elixir (Phoenix, Ecto, etc.)
   - Android
-  - ReactNative
+  
   - Programação Reativa
   - Aprendizado de Máquina
 
 ## Experiência
 
-#### **[BRIDGE-MT](https://www.bridge-mt.com/de/)** -- Desenvolvedor Front-End (estágio) -- Abril/2018 - Atualmente
+#### **[BRIDGE-MT](https://www.bridge-mt.com/de/)** -- Desenvolvedor Front-End (estágio) -- Abril/2018 - Janeiro/2019
 
 Atuo no desenvolvimento e manutenção dos softwares da empresa.
 

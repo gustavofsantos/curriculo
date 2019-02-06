@@ -2,8 +2,8 @@
   <img
     alt="Foto mto louca"
     src="https://avatars3.githubusercontent.com/u/8608517?s=460&v=4"
-    width="168"
-    height="168"
+    width="178"
+    height="178"
   />
   <br />
   Gustavo Santos
@@ -23,7 +23,7 @@
 
 ## Resumo
 
-Sou um desenvolvedor poliglota, engenheiro, tocador de violão, jogador de Battlefield e que nas horas vagas arrisco um futebol. Adoro novos desafios, adoro aprender novas tecnologias, adoro exercitar minha capacidade ser flexível
+Sou um desenvolvedor poliglota, engenheiro, tocador de violão, jogador de Battlefield e que nas horas vagas arrisco um futebol. Adoro novos desafios, aprender uma tecnologia nova, repassar o meu conhecimento e acima de tudo ajudar o mundo a ser um lugar melhor.
 
 ## Cinto de ferramentas
 
@@ -45,10 +45,17 @@ Embora minha maior proeficiência seja no mundo JavaScript, gosto de explorar di
 Também tenho uma lista não tão extensa quanto eu gostaria, com tecnologias que eu quero muito trabalhar em algum momento:
 
   - Elixir (Phoenix, Ecto, etc.)
-  - Android
-  
+  - Golang
   - Programação Reativa
   - Aprendizado de Máquina
+  
+## História como dev
+
+Escrevi o meu primeiro programa em Pascal, durante um curso de programação que ganhei no ensino médio. Mais tarde ao cursar Meteorologia aprendi Fortran e de forma autoditada aprendi C e Python. Pouco tempo antes de sair do curso de Meteorologia e entrar em Engenharia de Computação, eu já desenvolvia apps Android com Java e os publicava na Google Play. 
+
+Já na graduação em EC comecei a aprender programação funcional e também comecei interagir com a comunidade open source, o que me rendeu duas palestras sobre programação funcional. Usei a maioria do meu tempo livre durante a graduação para aprender tecnologias, por exemplo: Haskell, Scala, Erlang, Clojure, Go, Elixir, Kotlin, Blockchain, Solidity, além do Javascript, React, Node, MongoDB, GraphQL, REST, PWAs, SPAs, etc. Desenvolvi minha própria moeda criptográfica chamada [SatolepCoin](https://github.com/gustavofsantos/SatolepCoin) é defini um sistema criptográfico distribuído via blockchain que suporta múltiplas chaves atreladas a uma identidade.
+
+Também durante a graduação atuei em projetos de iniciação científica e extensão, publicando artigos e ajudando a comunidade de crianças de Pelotas a ter contato com a computação. No último ano de graduação eu foquei em fazer meu TCC, estágio profissional e ainda assim manter minha média alta sem nunca ter pego nem mesmo exame durante a graduação.
 
 ## Experiência
 
@@ -113,7 +120,7 @@ Nessa palestra mostro os blocos básicos para a construção de programas purame
 
 Um resumo do meu TCC em formato de artigo pode ser visto neste [link](https://github.com/gustavofsantos/curriculo/blob/master/files/SBRC_2019.pdf).
 
-##### Trabalhos Interessantes
+##### Trabalhos de Graduação
 
 Aqui listo alguns trabalhos interessantes que desenvolvi ao longo da graduação e suas respectivas cadeiras.
 
@@ -123,6 +130,8 @@ Aqui listo alguns trabalhos interessantes que desenvolvi ao longo da graduação
     > Tecnologias: C
   - **Sistema de Transmissão de Áudio** - Redes de Computadores
     > Tecnologias: Python 3
+  - **Parser de uma Linguagem de Programação** - Linguagens Formais
+    > Tecnologias: Scala
   - **Máquina Virtual** - Programação de Sistemas
     > Tecnologias: Java
 

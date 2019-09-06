@@ -59,6 +59,8 @@ Também durante a graduação atuei em projetos de iniciação científica e ext
 
 ## Experiência
 
+#### **[Send4](https://troquefacil.com.br)** -- Desenvolvedor Front-End -- Fevereiro/2019 - Atual
+
 #### **[BRIDGE-MT](https://www.bridge-mt.com/de/)** -- Desenvolvedor Front-End (estágio) -- Abril/2018 - Janeiro/2019
 
 Atuo no desenvolvimento e manutenção dos softwares da empresa.

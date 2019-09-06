@@ -61,9 +61,11 @@ Também durante a graduação atuei em projetos de iniciação científica e ext
 
 #### **[Send4](https://troquefacil.com.br)** -- Desenvolvedor Front-End -- Fevereiro/2019 - Atual
 
+Atuo como desenvolvedor dando manutenção e desenvolvendo novas funcionalidades para os sistemas da empresa.
+
 #### **[BRIDGE-MT](https://www.bridge-mt.com/de/)** -- Desenvolvedor Front-End (estágio) -- Abril/2018 - Janeiro/2019
 
-Atuo no desenvolvimento e manutenção dos softwares da empresa.
+Atuei no desenvolvimento e manutenção dos softwares da empresa.
 
 #### **[BRAVE](http://brave.ag/)** -- Desenvolvedor Mobile Android (trainee) -- Março/2018 - Abril/2018
 

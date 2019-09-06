@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 4em;">
   <img
-    alt="Foto mto louca"
+    alt="Foto"
     src="https://avatars3.githubusercontent.com/u/8608517?s=460&v=4"
     width="178"
     height="178"

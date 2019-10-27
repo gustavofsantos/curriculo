@@ -1,13 +1,12 @@
-<h1 align="center" style="font-size: 4em;">
+<div align="center">
   <img
     alt="Foto"
     src="https://avatars3.githubusercontent.com/u/8608517?s=460&v=4"
-    width="178"
-    height="178"
+    width="128"
+    height="128"
   />
-  <br />
-  Gustavo Santos
-</h1>
+  <h2>Gustavo Santos</h2>
+</div>
 
 **Email:** gustavofsantos@outlook.com
 
@@ -21,10 +20,6 @@
 
 **Blog:** [@gustavofsantos](https://dev.to/gustavofsantos)
 
-**Scuttlebutt:** @43oScJQ2UAivj6Frzp6ydgWPgmmw8ZOjKw7wsCtIe54=.ed25519
-
-**HackerRank:** https://www.hackerrank.com/gfdsantos
-
 ## Resumo
 
 Sou um desenvolvedor web front-end que acredita que a web é a plataforma universal e que todas as pessoas tem o direito de usá-la. Atualmente trabalho diariamente com JavaScript, React, Redux, Sass e muita programação funcional. A minha motivação é desenvolver coisas que as pessoas gostem de usar.
@@ -33,25 +28,28 @@ Sou um desenvolvedor web front-end que acredita que a web é a plataforma univer
 
 Acredito que no mundo da Web 3.0, o front-end é a principal maneira de apresentação e gerenciamento de informação.
 
-## Cinto de ferramentas
+## Principais ferramentas
 
 - JavaScript
 - Programação Funcional
 - Node.js
 - HTML, CSS
+- ESLint
+- React Testing Library
+- Jest
+- Docker
+
+## Outros conhecimentos
+
 - Go
 - Storybook
 - Design System
-- ESLint
-- Jest
-- React Testing Library
 - Puppeteer
-- Solidity (Ethereum)
-- Docker
-- Shell script
-- Kubernetes (iniciante)
 - Criptografia
 - Estrutura de dados
+- Solidity (Ethereum)
+- Shell script
+- Kubernetes (iniciante)
 
 ## Experiência
 
